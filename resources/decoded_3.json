@@ -1,0 +1,49 @@
+{
+    "records_decoded": [
+        {
+            "line1": {
+                "issuing_country": "CIV",
+                "last_name": "LYNN",
+                "given_name": "NEVEAH BRAM"
+            },
+            "line2": {
+                "passport_number": "W620126G5",
+                "country_code": "CIV",
+                "birth_date": "591010",
+                "sex": "F",
+                "expiration_date": "970730",
+                "personal_number": "AJ010215I"
+            }
+        },
+        {
+            "line1": {
+                "issuing_country": "REU",
+                "last_name": "MCFARLAND",
+                "given_name": "TRINITY AMITY"
+            },
+            "line2": {
+                "passport_number": "Q683170H1",
+                "country_code": "REU",
+                "birth_date": "640313",
+                "sex": "M",
+                "expiration_date": "690413",
+                "personal_number": "UK128819I"
+            }
+        },
+        {
+            "line1": {
+                "issuing_country": "CRI",
+                "last_name": "VEGA",
+                "given_name": "ELSIE TAVIAN"
+            },
+            "line2": {
+                "passport_number": "D553838Y2",
+                "country_code": "CRI",
+                "birth_date": "900118",
+                "sex": "F",
+                "expiration_date": "011114",
+                "personal_number": "FT004677S"
+            }
+        }
+    ]
+}
