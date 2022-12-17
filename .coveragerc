@@ -1,0 +1,7 @@
+[run]
+# measure branch coverage
+branch = True
+# don't measure python standard library (this is the default)
+cover_pylib = False
+
+omit = /usr/local/lib/python3.10/site-packages/_distutils_hack/__init__.py
