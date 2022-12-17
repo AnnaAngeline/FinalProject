@@ -1,0 +1,19 @@
+{
+    "records_decoded": [
+        {
+            "first_line": {
+                "issuing_country": "CIV",
+                "last_name": "LYNN",
+                "given_name": "NEVEAH BRAM"
+            },
+            "line_two": {
+                "passport_number": "W620126G5",
+                "country_code": "CIV",
+                "birth_date": "591010",
+                "sex": "F",
+                "expiration_date": "970730",
+                "personal_number": "AJ010215I"
+            }
+        }
+    ]
+}
